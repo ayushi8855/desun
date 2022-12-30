@@ -1,0 +1,49 @@
+{
+  "location": [
+    {
+      "Id": 1,
+      "name": "Baghajatin, Kolkata, WB",
+      "Distance": 10
+    },
+    {
+      "Id": 2,
+      "name": "Garia, Kolkata, WB",
+      "Distance": 20
+    },
+    {
+      "Id": 3,
+      "name": "Sealdaha, Kolkata, WB",
+      "Distance": 15
+    },
+    {
+      "Id": 4,
+      "name": "Jadavpur, Kolkata, WB",
+      "Distance": 25
+    }
+  ],
+  "game": [
+    {
+      "name": "Hi Stricker",
+      "price": 2000
+    },
+    {
+      "name": "Puch Challange",
+      "price": 3000
+    },
+    {
+      "name": "Bow & Arrow",
+      "price": 3000
+    },
+    {
+      "name": "Catch Fish",
+      "price": 4000
+    }
+  ],
+  "cart": [
+    {
+      "name": "Catch Fish",
+      "price": 4000,
+      "id": 1
+    }
+  ]
+}

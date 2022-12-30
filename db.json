@@ -44,6 +44,11 @@
       "name": "Catch Fish",
       "price": 4000,
       "id": 1
+    },
+    {
+      "name": "Puch Challange",
+      "price": 3000,
+      "id": 2
     }
   ]
 }

@@ -22,11 +22,11 @@ export const Nav = () => {
                     <Link to={"/"}><Text >Home</Text></Link>  
                     </Box>
                     <Box>
-                      <Text >Login</Text>
+                    <Link to={"/login"}>  <Text >Login</Text></Link>
                     </Box>
                     <Box>
-                    <Text >Register</Text>
-
+                  <Link to={"/register"}><Text >Register</Text>
+                            </Link>  
                     </Box>
                     {/* {isAuth ?  */}
                      <Box>
